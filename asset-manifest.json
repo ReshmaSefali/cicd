@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReshmaSefali/cicd.git/static/css/main.334c1bb3.css",
+    "main.js": "/ReshmaSefali/cicd.git/static/js/main.fbf28d77.js",
+    "static/js/787.8eb42f38.chunk.js": "/ReshmaSefali/cicd.git/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/ReshmaSefali/cicd.git/index.html",
+    "main.334c1bb3.css.map": "/ReshmaSefali/cicd.git/static/css/main.334c1bb3.css.map",
+    "main.fbf28d77.js.map": "/ReshmaSefali/cicd.git/static/js/main.fbf28d77.js.map",
+    "787.8eb42f38.chunk.js.map": "/ReshmaSefali/cicd.git/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.fbf28d77.js"
+  ]
+}
